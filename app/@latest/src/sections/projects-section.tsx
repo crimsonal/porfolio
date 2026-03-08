@@ -3,15 +3,10 @@ import Section from "../components/section";
 export default function ProjectsSection() {
     const projects = [
         {
-            title: "Marketplace",
-            description: "E-commerce web app",
-            image: "/assets/project-1.png",
-        },
-        {
-            title: "Navigator",
-            description: "Navigation app design",
-            image: "/assets/project-2.png",
-        },
+          title: "Misinformation Detector",
+          description: "Real-time AI credibility analyzer",
+          image: "/assets/project-3.png",  
+        }
     ];
 
     return (
